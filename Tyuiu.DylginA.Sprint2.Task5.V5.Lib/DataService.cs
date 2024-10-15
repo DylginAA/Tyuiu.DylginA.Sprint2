@@ -9,33 +9,33 @@ namespace Tyuiu.DylginA.Sprint2.Task5.V5.Lib
             switch (value)
             {
                 case 6:
-                    res = "Шестерка";
+                    res = "шестерка";
                     break;
 
                 case 7:
-                    res = "Семерка";
+                    res = "семерка";
                     break;
 
                 case 8:
-                    res = "Восьмерка";
+                    res = "восьмерка";
                     break;
                 case 9:
-                    res = "Девятка";
+                    res = "девятка";
                     break;
                 case 10:
-                    res = "Десятка";
+                    res = "десятка";
                     break;
                 case 11:
-                    res = "Валет";
+                    res = "валет";
                     break;
                 case 12:
-                    res = "Дама";
+                    res = "дама";
                     break;
                 case 13:
-                    res = "Король";
+                    res = "король";
                     break;
                 case 14:
-                    res = "Туз";
+                    res = "туз";
                     break;
 
 
